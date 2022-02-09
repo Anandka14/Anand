@@ -20,7 +20,7 @@
     - INIT
 
    From these i learned many things in the first stage the process called  POST when the computer
-   is turned a process which initializes the screen,keyboard,hardwareand also tests the main memory
+   is turned a process which initializes the screen,keyboard,hardware and also tests the main memory
    in the second stage master boot record begins to find the operating system. for ex(window xp)
    in the third stage  Grand unified bootloader residing under boot in this stage a display of 
    splash screen is performed which allows the user to choose the operating system to boot in the 
@@ -28,7 +28,7 @@
    all the hardware attched to the system.the kernel also loads some required application related
    to userspace.in the last stage init a run level is basically used to select the operating system
    the most important daemons is xserver daemon which manges keyboard,mouse,and display after
-   completed my work i went for the seesion taken by koushik he taught about some interesting 
+   completed my work i went for the session taken by koushik he taught about some interesting 
    topic in vim how to add some markdown comments in the file for that we want to create a file 
    .mdformat by creating this we can use some special comment which can be viewed in the git 
    he tolds us to practise in the session we all used the comments and tried and finally we came 
