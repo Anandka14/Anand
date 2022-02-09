@@ -3,4 +3,4 @@
            
  - Cpu is responsible for handling the processing of logical operation
  - And the mathematical operation 
- ** bold ** 
+ - bios 
