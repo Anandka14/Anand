@@ -13,11 +13,11 @@
 
 ## Five different stages in boot process
 
-     - BIOS
-     - Master Boot Record
-     - LINUX Loader/GRUB
-     - LINUX Kernal
-     - INIT
+     * BIOS
+     * Master Boot Record
+     * LINUX Loader/GRUB
+     * LINUX Kernal
+     * INIT
 
    From these i learned many things in the first stage the process called* POST *when the computer
    is turned a process which initializes the screen,keyboard,hardwareand also tests the main memory
@@ -30,7 +30,7 @@
    the most important daemons is xserver daemon which manges keyboard,mouse,and display after
    completed my work i went for the seesion taken by koushik he taught about some interesting 
    topic in vim how to add some markdown comments in the file for that we want to create a file 
-   * .mdformat *by creating this we can use some special comment which can be viewed in the git 
+   .mdformat by creating this we can use some special comment which can be viewed in the git 
    he tolds us to practise in the session we all used the comments and tried and finally we came 
    know about how to use the special comments.and he said hereafter any assignment that given should
    be submitted in the following manner.atlast at the end of the day i learned many new things 
