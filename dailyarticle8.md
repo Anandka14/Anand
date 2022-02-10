@@ -1,6 +1,6 @@
 
 
-#Daily article
+ # Daily article
 
    
            Into the 8th day of mentorship program in surfboard payments,today my mentor 
@@ -23,9 +23,9 @@
            finish the content also but i have no time to finish i went for a session at 5.00
    
  
-#Todays session
+ # Todays session
      
-##About cyber security
+## About cyber security
             
            Todays session was taken by jatin about the cyber security and it was more
            interesting to hear what he says and he told more about the hackers and the 
