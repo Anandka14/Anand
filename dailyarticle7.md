@@ -12,7 +12,6 @@
    a computer the process happens called boot process. there are many stages in this process
 
 ## Five different stages in boot process
-
     - BIOS
     - Master Boot Record
     - LINUX Loader GRUB
