@@ -13,11 +13,11 @@
 
 ## Five different stages in boot process
 
-    -  BIOS
-    -  Master Boot Record
-    -  LINUX Loader GRUB
-    -  LINUX Kernal
-    -  INIT
+    - BIOS
+    - Master Boot Record
+    - LINUX Loader GRUB
+    - LINUX Kernal
+    - INIT
 
    From these i learned many things in the first stage the process called  POST when the computer
    is turned a process which initializes the screen,keyboard,hardware and also tests the main memory
