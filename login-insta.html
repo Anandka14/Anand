@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>  
+<head>
+<title>loginpage </title>
+<style>
+body{
+background-color:#EFEFEF;
+}
+.log{background-color:white;
+    margin:70px 450px;
+    height:450px;
+    padding:30px
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} 
+.user{
+background-color:#F6F6F6;
+margin: 5px 30px;
+width: 300px;
+padding:15px;
+border-style:solid ;
+border-width:thin;
+border-top-color:#BEBEBE;
+border-bottom-color:#BEBEBE ;
+border-left-color:#BEBEBE ; 
+border-right-color:#BEBEBE;
+border-radius:3px;
+
+}
+
+::placeholder{
+ color:black;
+ opacity:0.4;
+ font-size: .8em;
+}
+input{
+ 
+ outline:none;
+ background-color:transparent;
+ border: 1px solid#F6F6F6 ;
+ height: 20px;
+ width: 190px;
+ color: black;
+  
+}
+.pass{
+background-color:#F6F6F6;
+margin: 7px 30px;
+width: 300px;
+padding:15px;
+border-style:solid ;
+border-width:thin; 
+border-top-color:#BEBEBE;
+border-bottom-color:#BEBEBE ;
+border-left-color:#BEBEBE ;
+border-right-color:#BEBEBE ;
+border-radius:3px;
+
+}
+.in{
+background-color:#2BBEDE;
+opacity: 38%;
+margin:18px 30px;
+width: 300px;
+padding:15px;
+text-align:center;
+border-radius:7px;
+}
+.o{
+text-align:center;
+opacity:60%
+}
+
+.fac{
+text-align:center;
+font-weight:900;
+}
+.for{
+text-align:center;
+font-size:13px;
+}
+.reg{
+background-color:white;
+margin:30px 450px;
+  padding:15px;
+text-align:center;
+font-size:18px;
+}
+</style>
+</head>
+<script>
+function print(){
+console.log(document.getElementById("username").value)
+console.log(document.getElementById("pass").value)
+
+
+}
+
+</script>
+<body>
+<div class="log">
+    
+     <div class="img">
+        <img src ="insta.png" width="200" height="160" >
+  </div>
+
+         <div class="user">
+           <input type="text" placeholder="Phone number,username,or email" id="username">
+     </div>	 
+
+
+       	<div class="pass" >
+           <input type="text" placeholder="password"id="pass">
+     </div>
+
+
+       <div class="in">
+         <button onclick="print()"><font color ="black">Log in</button>
+   </div>
+
+         <div class="o">
+          <font color="black">OR
+ </div><br>
+     
+       	<div class="fac">
+	    <font color="#1E3586">Log in with Facebook
+   </div><br>
+
+	<div class="for">Forgot password?</div> 
+    </div>
+
+<div class="reg"><font color="black"> Don't have an account?<font color="#00B2BD"> Sign up </div>
+</body>
+</html>
